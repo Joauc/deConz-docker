@@ -1,2 +1,2 @@
-* Joauc deConz project *
+*Joauc deConz project*
 
